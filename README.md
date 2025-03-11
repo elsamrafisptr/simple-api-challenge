@@ -159,12 +159,12 @@ pytest
 ## 4️⃣ Demo & Documenatations
 
 ### Demo Video URL
-[Demo Video URL Google Drive](http://localhost:8000/redoc)
+[Demo Video URL Google Drive](https://drive.google.com/file/d/1MrH9ZD_6ejEw-JIQm3gFeU3ol52XcmJE/view?usp=drive_link)
 
 ### Architecture & Folder Structure
-Explained inside demo video on the minute 
+Explained inside demo video on the minute `19:25` 
 
 ### How It Works
-Explained inside demo video on the minute 
+Explained inside demo video on the minute `15:45` 
 
 ---
